@@ -5,7 +5,6 @@ tags:
 comments: true
 categories: 其他技术
 keywords: octopress, blog, github, 优化访问速度， 多说评论， 添加访客统计
-description: Octopress博客的一些个性化配置，如何提高Octopress博客访问速度，增加文章分类，添加多说评论系统，添加访客统计等。
 ---
 
 本文主要讲述了对Octopress搭建的博客进行一些个性化的配置，主要包括以下几个方面：
