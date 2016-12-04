@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 李天炜
 subtitle:
-description:
-author: John Doe
-language:
+description: 不做半瓶水晃荡的人
+author: 李天炜
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -73,3 +73,7 @@ deploy:
       github: git@github.com:tianweili/tianweili.github.io.git
       coding: git@git.coding.net:litianwei/litianwei.git
   branch: master
+
+
+# 头像
+avatar: /image/avatar.png
