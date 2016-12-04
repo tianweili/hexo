@@ -461,6 +461,7 @@ vendors:
 css: css
 js: js
 images: images
+#images: http://7u2i08.com1.z0.glb.clouddn.com/
 
 # Theme version
 version: 5.1.0
