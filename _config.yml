@@ -68,4 +68,8 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository:
+      github: git@github.com:tianweili/tianweili.github.io.git
+      coding: git@git.coding.net:litianwei/litianwei.git
+  branch: master
