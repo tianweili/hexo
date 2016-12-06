@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Java中的Listener 监听器"
 date: 2015-01-27 15:36:14 +0800
 tags:
